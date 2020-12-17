@@ -1,0 +1,5 @@
+OBJECT_BASE 3168624.btg
+OBJECT DNMA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.070294 11.846154 336.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 13.092276 11.864332 331.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 13.079954 11.856614 334.2 0.00
